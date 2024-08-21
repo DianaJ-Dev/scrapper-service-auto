@@ -29,13 +29,19 @@ La información se muestra en el siguiente formato:
 Simplemente accede a la página
 
 ```text
-https://scrapper-service-auto.onrender.com/scrapper-service/
+https://scrapper-service-auto.onrender.com/scrapper-service/brand-name
 ```
 
 Luego, añade el nombre de la marca al final de la URL.
 
 ```text
 https://scrapper-service-auto.onrender.com/scrapper-service/Chevrolet Sail
+```
+
+### `Para correrlo localmente`
+
+```text
+node index.js
 ```
 
 ## 3. Desarrollo del proyecto 
